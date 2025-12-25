@@ -21,7 +21,7 @@ Split HTML into lines.
 
 Extract product names using <h2> tags.
 
-Extract prices using <p>Price: tags.
+Extract prices using <p>Price tags.
 
 Print the data in a structured format or save to CSV.
 
